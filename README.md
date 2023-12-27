@@ -4,11 +4,11 @@
 |--|--|--|--|--|
 |/member|✅|⛔️|⛔️|⛔️|⛔️|
 |/cari-member|✅|✅|⛔️|⛔️|⛔️|
-|/product|✅|
-|/register|✅|
-|/topup|✅|
-|/order|✅|
-|/unregister|✅|
+|/product|✅|✅|✅|⛔️|⛔️|⛔️|
+|/register|✅|✅|✅|⛔️|⛔️|⛔️|
+|/topup|✅|✅|✅|⛔️|⛔️|⛔️|
+|/order|✅|✅|✅|⛔️|⛔️|⛔️|
+|/unregister|✅|✅|✅|⛔️|⛔️|⛔️|
 
 **Catatan**
 
