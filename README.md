@@ -1,14 +1,14 @@
 ## Endpoint
 
-|Path|token|id_member|username|nama_lengkap|id_product|data_product|saldo|
-|--|--|--|--|--|--|--|--|
-|/member|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
-|/cari-member|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
-|/product|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
-|/register|✅|✅|✅|✅|⛔️|⛔️|⛔️|⛔️|
-|/topup|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|✅|
-|/order|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
-|/unregister|✅|✅|️⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
+|Path|Method|token|id_member|username|nama_lengkap|id_product|data_product|saldo|
+|--|--|--|--|--|--|--|--|--|
+|/member|GET|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
+|/cari-member|GET|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
+|/product|GET|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
+|/register|POST|✅|✅|✅|✅|⛔️|⛔️|⛔️|⛔️|
+|/topup|POST|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|✅|
+|/order|POST|✅|✅|⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
+|/unregister|DELETE|✅|✅|️⛔️|⛔️|⛔️|⛔️|⛔️|⛔️|
 
 **Catatan**
 
